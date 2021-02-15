@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+With over 10 years’ experience, Justin has developed digital products for both global and mid-sized businesses. 
+He is result driven with enthusiasm and ambition for different technologies and has a knack for pushing boundaries. He tackles complex business logic with all challenges offered to him.
+
 <!--
 **jctf/jctf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
