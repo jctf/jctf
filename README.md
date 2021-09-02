@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-With over 10 years’ experience, Justin has developed digital products for both global and mid-sized businesses. 
+With over 15 years’ experience, Justin has developed digital products for both global and mid-sized businesses. 
 He is result driven with enthusiasm and ambition for different technologies and has a knack for pushing boundaries. He tackles complex business logic with all challenges offered to him.
 
 - 📫 How to reach me: [email](justin@fuchsfox.com) | [linkedin](https://www.linkedin.com/in/jctfox/) | [twitter](https://twitter.com/_jctf) | [instagram](https://www.instagram.com/jctfox/)
