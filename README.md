@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-With over 15 years’ experience, Justin has developed digital products for both global and mid-sized businesses. 
-He is result driven with enthusiasm and ambition for different technologies and has a knack for pushing boundaries. He tackles complex business logic with all challenges offered to him.
+With over 10 years’ experience, I have developed digital products for both global and mid-sized businesses. I'm result driven with enthusiasm and ambitious for all types of different technologies. 
+I have a knack for pushing boundaries and tackling complex business logic with all challenges offered to me.
 
-- 📫 How to reach me: [email](justin@fuchsfox.com) | [linkedin](https://www.linkedin.com/in/jctfox/) | [twitter](https://twitter.com/_jctf) | [instagram](https://www.instagram.com/jctfox/)
+- 📫 How to reach me: [email](justin@fuchsfox.com) | [linkedin](https://www.linkedin.com/in/jctfox/) | [twitter](https://twitter.com/jct_fox) | [instagram](https://www.instagram.com/jctfox/)
 - 😄 Pronouns: he/him
 
 
