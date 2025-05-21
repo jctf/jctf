@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-With over 10 years’ experience, I have developed digital products for both global and mid-sized businesses. I'm result driven with enthusiasm and ambitious for all types of different technologies. 
-I have a knack for pushing boundaries and tackling complex business logic with all challenges offered to me.
+With over a decade of experience developing digital products for global and mid-sized
+businesses, I am a results-driven Senior Software Engineer passionate about emerging
+technologies, skilled in React, React Native, Next.js, Node.js, and cloud-based
+solutions, with a proven track record in leading complex migrations, architecting
+scalable solutions, and optimising performance across web and mobile platforms to
+deliver measurable improvements in system performance, maintainability, and user
+experience
 
 - 📫 How to reach me: [email](justin@fuchsfox.com) | [linkedin](https://www.linkedin.com/in/jctfox/) | [twitter](https://twitter.com/jct_fox) | [instagram](https://www.instagram.com/jctfox/)
-- 😄 Pronouns: he/him
-
 
 <!--
 **jctf/jctf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
